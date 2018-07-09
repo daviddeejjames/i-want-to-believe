@@ -1,6 +1,6 @@
 # I Want To Believe 👽
 
-- Live Link: TBA
+- Live Link: https://daviddeejjames.github.io/i-want-to-believe
 - CodePen Link: TBA
 
 A silly mini game I made and put on CodePen that uses Emoji's,
